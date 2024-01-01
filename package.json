@@ -1,0 +1,19 @@
+{
+  "name": "mobileautomation",
+  "version": "1.0.0",
+  "description": "Deriv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Isuru",
+  "license": "ISC",
+  "dependencies": {
+    "appium": "^2.2.2",
+    "wd": "^1.14.0",
+    "webdriverio": "^8.24.1"
+  },
+  "devDependencies": {
+    "appium-uiautomator2-driver": "^2.34.1"
+  }
+}

@@ -1,0 +1,15 @@
+# .gitignore
+
+# Dependency directories
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Operating systems
+.DS_Store
+
+# Environment variables
+.env
